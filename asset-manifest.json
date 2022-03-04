@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5cc5c2a2.chunk.css",
+    "main.js": "/static/js/main.0f5a2530.chunk.js",
+    "main.js.map": "/static/js/main.0f5a2530.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5e7a5dd7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5e7a5dd7.js.map",
+    "static/css/2.f5c33d61.chunk.css": "/static/css/2.f5c33d61.chunk.css",
+    "static/js/2.a6a9d70a.chunk.js": "/static/js/2.a6a9d70a.chunk.js",
+    "static/js/2.a6a9d70a.chunk.js.map": "/static/js/2.a6a9d70a.chunk.js.map",
+    "static/js/3.00cbf428.chunk.js": "/static/js/3.00cbf428.chunk.js",
+    "static/js/3.00cbf428.chunk.js.map": "/static/js/3.00cbf428.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.f5c33d61.chunk.css.map": "/static/css/2.f5c33d61.chunk.css.map",
+    "static/css/main.5cc5c2a2.chunk.css.map": "/static/css/main.5cc5c2a2.chunk.css.map",
+    "static/js/2.a6a9d70a.chunk.js.LICENSE.txt": "/static/js/2.a6a9d70a.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/online-with-meraki.4a6a32c3.png",
+    "static/media/Rectangle-1.16bba942.png": "/static/media/Rectangle-1.16bba942.png",
+    "static/media/Rectangle-2.deef152c.png": "/static/media/Rectangle-2.deef152c.png",
+    "static/media/Rectangle-3.729f6631.png": "/static/media/Rectangle-3.729f6631.png",
+    "static/media/Rectangle-4.a8ea1d78.png": "/static/media/Rectangle-4.a8ea1d78.png",
+    "static/media/bg.16b099d8.svg": "/static/media/bg.16b099d8.svg",
+    "static/media/styles.css": "/static/media/bg.65fb5c1f.png",
+    "static/media/chat.ffcd3f4d.svg": "/static/media/chat.ffcd3f4d.svg",
+    "static/media/code.3aee6aed.svg": "/static/media/code.3aee6aed.svg",
+    "static/media/form.0d7cc487.svg": "/static/media/form.0d7cc487.svg",
+    "static/media/greater-than.46c63ae5.svg": "/static/media/greater-than.46c63ae5.svg",
+    "static/media/impactellipse.ebc14738.png": "/static/media/impactellipse.ebc14738.png",
+    "static/media/linkedin.3ed868c5.svg": "/static/media/linkedin.3ed868c5.svg",
+    "static/media/midImg.fb3cd5ce.png": "/static/media/midImg.fb3cd5ce.png",
+    "static/media/placement.6957801a.pdf": "/static/media/placement.6957801a.pdf",
+    "static/media/section-bg.fb6a986c.png": "/static/media/section-bg.fb6a986c.png",
+    "static/media/twitter.ad88b9ed.svg": "/static/media/twitter.ad88b9ed.svg",
+    "static/media/video.7e061c3f.mp4": "/static/media/video.7e061c3f.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e7a5dd7.js",
+    "static/css/2.f5c33d61.chunk.css",
+    "static/js/2.a6a9d70a.chunk.js",
+    "static/css/main.5cc5c2a2.chunk.css",
+    "static/js/main.0f5a2530.chunk.js"
+  ]
+}
